@@ -1,4 +1,14 @@
-### Hi there 👋
+# 🗿 monolithic-adam 🗿
+
+[![monolithic-adam's github stats](https://github-readme-stats.vercel.app/api?username=monolithic-adam&count_private=true&show_icons=true)](https://github.com/monolithic-adam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monolithic-adam&hide=CSS,javascript,html&show_icons=true)](https://github.com/monolithic-adam/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=monolithic-adam)](https://github.com/monolithic-adam "trophy")
+
+[![GitHub](https://img.shields.io/github/followers/monolithic-adam?style=social)](https://github.com/monolithic-adam "GitHub")
+[![Twitter](https://img.shields.io/twitter/follow/monolithic_adam?style=social)](https://twitter.com/monolithic_adam "Twitter")
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/monolithic-adam/posts.svg)](http://qiita.com/monolithic-adam "My Qiita posts")
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/monolithic-adam/contributions.svg)](http://qiita.com/monolithic-adam "My Qiita contributions")
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/monolithic-adam/followers.svg)](http://qiita.com/monolithic-adam "My Qiita followers")
 
 <!--
 **monolithic-adam/monolithic-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
