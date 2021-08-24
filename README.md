@@ -4,6 +4,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monolithic-adam&hide=CSS,javascript,html&show_icons=true&theme=tokyonight)](https://github.com/monolithic-adam/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=monolithic-adam&theme=onedark)](https://github.com/monolithic-adam "trophy")
 
+### Languages
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### Socials
 [![GitHub](https://img.shields.io/github/followers/monolithic-adam?style=social)](https://github.com/monolithic-adam "GitHub")
 [![Twitter](https://img.shields.io/twitter/follow/monolithic_adam?style=social)](https://twitter.com/monolithic_adam "Twitter")
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/monolithic-adam/posts.svg)](http://qiita.com/monolithic-adam "My Qiita posts")
