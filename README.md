@@ -1,8 +1,8 @@
 # 🗿 monolithic-adam 🗿
 
-[![monolithic-adam's github stats](https://github-readme-stats.vercel.app/api?username=monolithic-adam&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/monolithic-adam/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monolithic-adam&hide=CSS,javascript,html&show_icons=true&theme=tokyonight)](https://github.com/monolithic-adam/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=monolithic-adam&theme=onedark)](https://github.com/monolithic-adam "trophy")
+[![monolithic-adam's github stats](https://github-readme-stats-fast.vercel.app/api?username=monolithic-adam&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/monolithic-adam/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=monolithic-adam&hide=CSS,javascript,html&show_icons=true&theme=tokyonight)](https://github.com/monolithic-adam/github-readme-stats-fast)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=monolithic-adam&theme=onedark)](https://github.com/monolithic-adam "trophy")
 
 ### Languages
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
